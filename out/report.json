@@ -1,0 +1,101 @@
+{
+  "tool": "TopicGuard",
+  "generated_at": "2026-08-15T02:40:52.700742+00:00",
+  "start_url": "https://seobysubham.com",
+  "pages": [
+    {
+      "url": "https://seobysubham.com",
+      "status_code": 200,
+      "error": "",
+      "title": "Manual Link Building Service | White Hat SEO | SEO by Subham",
+      "title_length": 60,
+      "meta_description": "Grow your website with SEO by Subham. Manual link building, white hat SEO, and monthly link building service for long-term SEO growth.",
+      "h1_count": 1,
+      "word_count": 1798,
+      "canonical": "https://seobysubham.com/",
+      "noindex": false,
+      "inbound_links": 0,
+      "is_orphan": false,
+      "click_depth": 0,
+      "decay_score": 0,
+      "decay_last_modified_known": false,
+      "decay_days_since_modified": null,
+      "decay_is_thin": false
+    },
+    {
+      "url": "https://seobysubham.com/",
+      "status_code": 200,
+      "error": "",
+      "title": "Manual Link Building Service | White Hat SEO | SEO by Subham",
+      "title_length": 60,
+      "meta_description": "Grow your website with SEO by Subham. Manual link building, white hat SEO, and monthly link building service for long-term SEO growth.",
+      "h1_count": 1,
+      "word_count": 1798,
+      "canonical": "https://seobysubham.com/",
+      "noindex": false,
+      "inbound_links": 4,
+      "is_orphan": false,
+      "click_depth": 1,
+      "decay_score": 0,
+      "decay_last_modified_known": false,
+      "decay_days_since_modified": null,
+      "decay_is_thin": false
+    },
+    {
+      "url": "https://seobysubham.com/meta-title-description-checker",
+      "status_code": 200,
+      "error": "",
+      "title": "Free Meta Title & Description Checker Tool | SEO by Subham",
+      "title_length": 58,
+      "meta_description": "Use our free Meta Title & Description Checker to check your page title, meta description length, and Google Search Preview before publishing.",
+      "h1_count": 1,
+      "word_count": 1210,
+      "canonical": "https://seobysubham.com/meta-title-description-checker",
+      "noindex": false,
+      "inbound_links": 4,
+      "is_orphan": false,
+      "click_depth": 1,
+      "decay_score": 0,
+      "decay_last_modified_known": false,
+      "decay_days_since_modified": null,
+      "decay_is_thin": false
+    },
+    {
+      "url": "https://seobysubham.com/xml-sitemap-generator",
+      "status_code": 200,
+      "error": "",
+      "title": "Free XML Sitemap Generator Tool | SEO by Subham",
+      "title_length": 47,
+      "meta_description": "Create a clean XML sitemap for your website in seconds. Use this Free XML Sitemap Generator to make sitemap.xml files for better SEO.",
+      "h1_count": 1,
+      "word_count": 1207,
+      "canonical": "https://seobysubham.com/xml-sitemap-generator",
+      "noindex": false,
+      "inbound_links": 4,
+      "is_orphan": false,
+      "click_depth": 1,
+      "decay_score": 0,
+      "decay_last_modified_known": false,
+      "decay_days_since_modified": null,
+      "decay_is_thin": false
+    }
+  ],
+  "content_overlap_pairs": [
+    {
+      "url_a": "https://seobysubham.com",
+      "url_b": "https://seobysubham.com/",
+      "score": 1.0,
+      "severity": "high",
+      "shared_terms": [
+        "link",
+        "building",
+        "seo",
+        "service",
+        "website",
+        "manual",
+        "growth",
+        "authority"
+      ]
+    }
+  ]
+}

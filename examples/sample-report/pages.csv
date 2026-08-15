@@ -1,0 +1,5 @@
+url,status_code,error,title,title_length,meta_description,h1_count,word_count,canonical,noindex,inbound_links,is_orphan,click_depth,decay_score,decay_last_modified_known,decay_days_since_modified,decay_is_thin
+http://127.0.0.1:8123/,200,,Home | Demo Store,17,Demo store homepage.,1,28,,False,2,False,0,100,True,957,True
+http://127.0.0.1:8123/best-running-shoes,200,,Best Running Shoes 2026,23,,1,43,,False,1,False,1,100,True,957,True
+http://127.0.0.1:8123/hiking-boots,200,,Hiking Boots,12,,1,20,,False,1,False,1,100,True,957,True
+http://127.0.0.1:8123/running-shoes-for-beginners,200,,Running Shoes for Beginners,27,,1,33,,False,1,False,1,100,True,957,True

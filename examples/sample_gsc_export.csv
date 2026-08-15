@@ -1,0 +1,6 @@
+query,page,clicks,impressions,ctr,position
+best running shoes,http://127.0.0.1:8123/best-running-shoes,120,3400,3.5,8.2
+running shoes for beginners,http://127.0.0.1:8123/best-running-shoes,45,1800,2.5,11.4
+running shoes for beginners,http://127.0.0.1:8123/running-shoes-for-beginners,80,2100,3.8,7.1
+best running shoes,http://127.0.0.1:8123/running-shoes-for-beginners,15,900,1.6,15.3
+hiking boots,http://127.0.0.1:8123/hiking-boots,60,1500,4.0,6.5

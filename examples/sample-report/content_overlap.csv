@@ -1,0 +1,2 @@
+url_a,url_b,score,severity,shared_terms
+http://127.0.0.1:8123/best-running-shoes,http://127.0.0.1:8123/running-shoes-for-beginners,0.7258,medium,"running, shoes, beginners, best, cushioning, offer, lightweight, support"
